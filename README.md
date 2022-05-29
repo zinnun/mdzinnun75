@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Zinnun
+- 👋 Hi, this is Zinnun
 - 👉 Working on Web Automation testing, Selenium Hybrid Framework
 - 👀 I’m interested in Coding, Solving Puzzle, Sudoku, Reading Fiction & Non-Fiction Books, Reaching out new people 
-- 💞️ I’m looking forward to collaborate on Selenium related stuffs
+- 💞️ I’m looking forward to collaborate on Manual & Automation Testing related stuffs
 - 📫 Reach me on LinkedIn --> Md Zinnun Uddin
 
 <!---
