@@ -4,7 +4,7 @@
 - 👉 Working on Web Automation testing, Selenium Hybrid Framework, Rest API Testing, Performance Testng & Container Technologies
 - 👀 I’m interested in Coding, Sudoku, Reading Fiction & Non-Fiction Books, Reaching out new people 
 - 💞️ I’m looking forward to collaborate on Manual & Automation Testing related stuffs
-- ✍ I write QA related blogs on my [Personal blog](zinnun.hashnode.dev) & [dev.to](dev.to/zinnun) 
+- ✍ I write QA related blogs on my [Personal blog](https://zinnun.hashnode.dev/) & [dev.to](https://dev.to/zinnun) 
 
 <!---
 mdzinnun75/mdzinnun75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
